@@ -69,3 +69,13 @@ An interactive Power BI dashboard was created to visualize key insights:
 * Key trends and patterns in the data
 * Etc
 
+**Prerequisites**
+* **Python 3.x**
+  
+* **Required Python Libraries:**
+* **pandas**
+* **numpy**
+* **matplotlib**
+* **seaborn**
+* **sklearn**
+
