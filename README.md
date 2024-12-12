@@ -72,7 +72,7 @@ An interactive Power BI dashboard was created to visualize key insights:
 **Prerequisites**
 * **Python 3.x**
   
-* **Required Python Libraries:**
+**Required Python Libraries:**
 * **pandas**
 * **numpy**
 * **matplotlib**
