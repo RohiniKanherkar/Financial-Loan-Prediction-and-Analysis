@@ -31,3 +31,40 @@ The dataset consists of 38576 rows and 14 columns, including:
   * `sub_grade`: Loan subgrade  
   * `term`: Loan term  
   * `verification_status`: Verification status of income and assets
+
+ **Data Cleaning and Preprocessing**
+
+The dataset was cleaned and preprocessed to handle missing values, outliers, and inconsistencies. 
+
+**Feature Importance**
+
+Feature importance analysis identified the following top features as the most influential in predicting loan approval:
+
+* **`emp_title`**: The job title of the applicant
+* **`dti`**: The debt-to-income ratio
+* **`annual_income`**: The annual income of the applicant
+* **`loan_amount`**: The amount of the loan
+* **`int_rate`**: The interest rate of the loan
+* **`sub_grade`**: The loan subgrade
+
+**Model Training**
+
+Several machine learning models were trained and evaluated on the selected features:
+
+* **Linear Regression**
+* **Ridge Regression**
+* **Lasso Regression**
+* **Decision Tree Regressor**
+* **Random Forest Regressor**
+
+The best-performing model was selected based on metrics like accuracy, precision, recall, and F1-score. 
+
+**Power BI Dashboard**
+
+An interactive Power BI dashboard was created to visualize key insights:
+
+* Loan status distribution
+* Feature importance analysis
+* Model performance metrics
+* Key trends and patterns in the data
+
