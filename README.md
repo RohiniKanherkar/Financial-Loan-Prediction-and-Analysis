@@ -89,4 +89,4 @@ An interactive Power BI dashboard was created to visualize key insights, includi
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/Financial-Loan-Prediction-and-Analysis.git  
+   git clone https://github.com/RohiniKanherkar/Financial-Loan-Prediction-and-Analysis.git  
